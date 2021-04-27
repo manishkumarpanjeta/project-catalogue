@@ -90,7 +90,7 @@
 				usePopupDefaultStyling: false,
 				windowMargin: 50,
 				usePopupNav: true,
-				usePopupLoader: true
+				popupLoaderText: ''
 			});
 
 			// Hack: Adjust margins when 'small' activates.
