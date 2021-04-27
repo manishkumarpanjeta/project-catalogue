@@ -88,8 +88,10 @@
 				overlayColor: '#1f2328',
 				overlayOpacity: 0.65,
 				usePopupDefaultStyling: true,
+				popupLoaderText: 'Loading..',
 				windowMargin: 50,
-				usePopupNav: true
+				usePopupNav: true,
+				usePopupLoader: true
 			});
 
 			// Hack: Adjust margins when 'small' activates.
