@@ -88,7 +88,6 @@
 				overlayColor: '#1f2328',
 				overlayOpacity: 0.65,
 				usePopupDefaultStyling: false,
-				popupLoaderText: 'Loading..',
 				windowMargin: 50,
 				usePopupNav: true,
 				usePopupLoader: true
